@@ -23,7 +23,7 @@ Download/Install
 Get the server up and running 
 Provide the url with the correct path in the plugin (Postman).Also select the appropriate 
 HTTP command(GET)
-(Example :http://localhost:8181/myretail/webapi/Products/13860428) 
+
  
 
 
